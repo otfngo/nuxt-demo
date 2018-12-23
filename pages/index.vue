@@ -7,6 +7,7 @@
       <li><nuxt-link to="/users">to users page</nuxt-link></li>
       <li><nuxt-link to="/bulma">to bulma page</nuxt-link></li>
       <li><nuxt-link to="/localeEn">to localeEn page</nuxt-link></li>
+      <li><nuxt-link to="/cache">to cache page</nuxt-link></li>
     </ul>
   </div>
 </template>
